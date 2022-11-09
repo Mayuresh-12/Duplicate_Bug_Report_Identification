@@ -5,4 +5,4 @@ Developers are constantly working on bug fixes and pushing updates to the softwa
 
 This project is aimed at creating a model to classify bug reports as duplicate or non-duplicate.
 
-##Usage
+## Usage
